@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BACKUP_DIR=/home/coldtears/Desktop/backup
+BACKUP_DIR=/path/to/backup
 DATE=$(date +%Y-%m-%d_%H-%M-%S)
 BACKUP_FILE=backup_$DATE.tar.gz
 
